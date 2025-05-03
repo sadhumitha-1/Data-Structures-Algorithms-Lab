@@ -26,7 +26,7 @@ Maintain proper boundary conditions and follow good coding practices.
 
 The visual logic is shown below:
 
-![Reverse Linked List](https://github.com/sadhumitha-1/Data-Structures-Algorithms-Lab/blob/main/lab4/images/Linked%20list%20reversal.png?raw=true)
+![Reverse Linked List](https://github.com/sadhumitha-1/Data-Structures-Algorithms-Lab/blob/main/lab%204/images/Linked%20list%20reversal.png?raw=true)
 
 ### Question:
 

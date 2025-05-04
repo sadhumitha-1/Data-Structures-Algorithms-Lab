@@ -14,7 +14,7 @@ Maintain proper boundary conditions and follow good coding practices.
 3. Peek  
 4. Exit  
 
-> ❓ **Question:** What is the time complexity of each of the operations? (K4)
+>**Question:** What is the time complexity of each of the operations? (K4)
 
 ---
 
@@ -30,7 +30,7 @@ Maintain proper boundary conditions and follow good coding practices.
 3. Peek  
 4. Exit  
 
-> ❓ **Question:** What is the time complexity of each of the operations? (K4)
+>**Question:** What is the time complexity of each of the operations? (K4)
 
 ---
 
@@ -66,7 +66,7 @@ Use a **singly linked list (SLL)** to implement the Stack ADT as a **header file
 
 ![Operator Precedence Table](https://github.com/sadhumitha-1/Data-Structures-Algorithms-Lab/blob/main/lab%206/images/table.png?raw=true) 
 
-> ❓ **Question:** What is the time complexity of each of the operations? (K4)
+>**Question:** What is the time complexity of each of the operations? (K4)
 
 ---
 
@@ -88,7 +88,7 @@ You may reuse previously implemented **header files**. Maintain proper boundary 
   Displays whether the input is balanced or not.  
   Explore and consider at least **two designs/approaches** before finalizing your implementation.
 
-> ❓ **Question:** What is the time complexity of each solution, and what is the optimal solution?  
+>**Question:** What is the time complexity of each solution, and what is the optimal solution?  
 > Justify your answer. (K5)
 
 ---

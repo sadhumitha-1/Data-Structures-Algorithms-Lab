@@ -17,7 +17,7 @@ Maintain proper boundary conditions and follow good coding practices.
 8. Display  
 9. Exit  
 
-> ❓ **Question:** What is the time complexity of each of the above operations? (K4)
+>**Question:** What is the time complexity of each of the above operations? (K4)
 
 ---
 
@@ -38,7 +38,7 @@ Maintain proper boundary conditions and follow good coding practices.
 8. Display  
 9. Exit  
 
-> ❓ **Question:** What is the time complexity of each of the above operations? (K4)
+>**Question:** What is the time complexity of each of the above operations? (K4)
 
 ---
 
@@ -68,6 +68,6 @@ Include the logic in a **header file** and write a **menu-driven** C++ program t
   - If time ≤ 0, the process is complete  
   - Else, insert the remaining time at the end of the list  
 
-> ❓ **Question:** What is the time complexity of each of the above operations? (K4)
+>**Question:** What is the time complexity of each of the above operations? (K4)
 
 ---

@@ -3,7 +3,7 @@
 ## Question 1
 
 Write a C++ **menu-driven program** to determine whether a number is a **Palindrome**, **Armstrong**, or **Perfect Number**.  
-> ❗ **Note**: Normal variable and array declarations are **not allowed**. Utilize **Dynamic Memory Allocation (DMA)**.  
+> **Note**: Normal variable and array declarations are **not allowed**. Utilize **Dynamic Memory Allocation (DMA)**.  
 
 Design proper functions, maintain boundary conditions, and follow coding best practices.  
 The menu is as follows:
